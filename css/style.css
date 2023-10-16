@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.article-img {
+  height: 300px;
+  width: 450px;
+}
+
+.align-baseline {
+  vertical-align: baseline !important;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+/* Ejemplo de estilos para el tema oscuro */
+.dark-theme {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+/* Ejemplo de estilos para botones en el tema oscuro */
+.dark-theme .btn {
+  background-color: #ffffff;
+  color: #333333;
+}
+
+/* Ejemplo de estilos para enlaces en el tema oscuro */
+.dark-theme a {
+  color: #00bfff; /* Color de enlace en el tema oscuro */
+}
+
+/* Estilos para botones de contorno en el tema oscuro */
+.dark-theme .btn-outline-dark {
+  border-color: #ffffff; /* Color del borde en el tema oscuro */
+  color: #ffffff; /* Color del texto en el tema oscuro */
+}
+
+/* Establece un fondo de botón oscuro para mayor contraste si es necesario */
+.dark-theme .btn-outline-dark {
+  background-color: #333333;
+}
+
+.dark-theme .badge.bg-dark.text-white {
+  background-color: #343a40; /* Color de fondo oscuro en el tema oscuro */
+  color: #ffffff; /* Color del texto en el tema oscuro */
+}

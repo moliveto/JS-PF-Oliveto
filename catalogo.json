@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Fideos Tirabuzon",
+      "brand": "LUCCHETTI",
+      "category": "Arroz y pastas secas",
+      "price": 727,
+      "discount": 10,
+      "rating": 2,
+      "image": "fideos.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Aceite de Girasol",
+      "brand": "NATURA",
+      "category": "Aceites vinagres y acetos",
+      "price": 620,
+      "discount": 0,
+      "rating": 5,
+      "image": "aceite.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Arroz parboil",
+      "brand": "GALLO",
+      "category": "Arroz y pastas secas",
+      "price": 977,
+      "discount": 5,
+      "rating": 3,
+      "image": "arroz.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Atun entero al natural",
+      "brand": "GOMES DA COSTA",
+      "category": "Conservas de pescado",
+      "price": 1400,
+      "discount": 10,
+      "rating": 4,
+      "image": "atun.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Dulce de Leche",
+      "brand": "Manfrey",
+      "category": "Dulces",
+      "price": 581,
+      "discount": 1,
+      "rating": 4,
+      "image": "dulce-de-leche.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Galletas sonrisas",
+      "brand": "BAGLEY",
+      "category": "Galletas",
+      "price": 350,
+      "discount": 5,
+      "rating": 5,
+      "image": "galletas.jpg"
+    }
+  ]
+  
